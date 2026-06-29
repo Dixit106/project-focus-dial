@@ -10,3 +10,6 @@ I am writing log.md because most hardware projects in hackclub require writing a
 There was an update with lapse something related to lookout application. As I am on linux(Arch btw) so sometimes things don't work the way they are supposed and same was happening. I tried to trobleshoot for hours but nothing was working. That's why finally on 28/6/26 I started using web based softwares to make my project and figured out to use lapse and things were more stable now.
 
 Things related to project. I started making schematics for the project. Using RP2040, rotatory encoder, a buzzer, couple of transistor, capacitors and resistors so that I don't fry my RP2040. Schematics are a bit of mess but I am a bit noob so it can be ignored for now as long as everything is right and it is. Hence I pushed files to github repo too now i am on to my next steps.
+
+29/6/26:-
+Today was a productive session. I Started making pcb and it took me almost 2 hours in this. Although My project is very simple but the wiring part was a mess. There were many DRC check errors. I was trying to fix one and 2 more came it was a bit frustrating but in the end i still somehow managed to do everything right. Lapse also did not give me any problem with recording time today. Now next task is 3D model part.. :)
