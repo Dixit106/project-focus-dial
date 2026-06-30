@@ -13,3 +13,6 @@ Things related to project. I started making schematics for the project. Using RP
 
 29/6/26:-
 Today was a productive session. I Started making pcb and it took me almost 2 hours in this. Although My project is very simple but the wiring part was a mess. There were many DRC check errors. I was trying to fix one and 2 more came it was a bit frustrating but in the end i still somehow managed to do everything right. Lapse also did not give me any problem with recording time today. Now next task is 3D model part.. :)
+
+30/6/26:-
+Today I started 3D modeling for the body of my project. I have bad experiences with this part because when I tried this last time few months ago I though I have done great work but when I got my 3D print I realized how I have messed up size. I started with creating the base and walls and I was using this new application for the first time so it took me around 1 hour just to do this and there are still complications and errors. I will continue this tommorow now...
