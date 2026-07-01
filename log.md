@@ -16,3 +16,6 @@ Today was a productive session. I Started making pcb and it took me almost 2 hou
 
 30/6/26:-
 Today I started 3D modeling for the body of my project. I have bad experiences with this part because when I tried this last time few months ago I though I have done great work but when I got my 3D print I realized how I have messed up size. I started with creating the base and walls and I was using this new application for the first time so it took me around 1 hour just to do this and there are still complications and errors. I will continue this tommorow now...
+
+1/7/26:-
+I continued 3d modeling. I could understand things better today and made some progress. Although it's still a bit of learning curve for me and i am using text based help to learn stuff so it's taking more time than it should. I am not using video help as it's hard to find video too which will work in my case according to my project so it's better to use what is working for now. Work is more than 50% complete hopefully I will finish 3d model by tommorow...
